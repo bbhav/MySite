@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: cursive;
+    font-size: 2.5rem;
+    color:#678983 ;
+    line-height: 2rem;
+}
+.profile{
+    padding: 30px;
+    
+    width: 15%;
+}
+.First{
+  font-size:  1.5em;
+  color:#678983 ;
+}
+
+h2{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+color: #678983;
+
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #562B08;
+}
+
+hr{
+    border-style: dotted none none;
+            border-color: #D6E4E5;
+            border-width: 5px;
+            height: 0px;
+            width:8%
+}
+p{
+    line-height: 2;
+}
+.Top-container{
+    background-color: #FFFBEB;
+    position: relative;
+    padding: 30px;
+  
+}
+a{
+    color:#562B08;
+    font-family: serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #1584e4  ;
+
+}
+.p-desc{
+    margin: 10px auto 10px auto;
+    height: 50%;
+   width: 60%;
+}
+.Middle-container{
+ padding:15px;
+ margin-top:15px ;
+margin-bottom: 15px;
+background-color: #F1EFDC;
+text-align: center;
+
+}
+.bottom-container{
+   background-color: #678983; 
+   padding:30px;
+   color: #eaf6f6;
+   font-family: Verdana, Geneva, Tahoma, sans-serifs;
+   
+}
+.work-ex{
+    width:60%;
+    
+    margin-left: 20%;
+}
+
+.skill-row{
+ margin: 0px auto 10px auto;
+ width: 45%;
+ text-align: left;
+ line-height: 1;
+}
+
+.skill-img1{
+    width: 25%;
+    float: left;  
+    padding: 30px;
+    margin-top: 0%;
+    margin-right:30 px;
+}
+.skill-img2{
+    width: 40%;
+    float:right;
+    margin-right: 30px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+
+.block1{
+    position: absolute;
+   left: 30px;
+    bottom: 50px;
+    width: 5%;
+}
+.block2{
+    position: absolute;
+    right:30px;
+    top: 50px;
+    width: 5%;
+
+}
+
+.fotter-link{
+    color: #678983 ;
+}
+
+.btn {
+    background: #678983;
+    background-image: -webkit-linear-gradient(top, #678983, #678983);
+    background-image: -moz-linear-gradient(top, #678983, #678983);
+    background-image: -ms-linear-gradient(top, #678983, #678983);
+    background-image: -o-linear-gradient(top, #678983, #678983);
+    background-image: linear-gradient(to bottom, #678983, #678983);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #E6DDC4;
+    text-decoration: none;
+  }
